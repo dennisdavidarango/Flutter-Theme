@@ -40,8 +40,8 @@ class MainThemeState extends StatelessWidget {
       accentColor: DeliveryColors.purple,
       bottomAppBarColor: DeliveryColors.veryLightGrey,
       textTheme: GoogleFonts.poppinsTextTheme().apply(
-        bodyColor: DeliveryColors.purple,
-        displayColor: DeliveryColors.purple,
+        bodyColor: DeliveryColors.green,
+        displayColor: DeliveryColors.green,
       ),
       inputDecorationTheme: InputDecorationTheme(
         border: _borderLight,
